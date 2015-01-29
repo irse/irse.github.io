@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What kind of planets have been found around M-dwarf stars?
-published: false
+published: true
 ---
 
 Fair warning: I'm not sure if the following has a point. It's just information I find interesting.
