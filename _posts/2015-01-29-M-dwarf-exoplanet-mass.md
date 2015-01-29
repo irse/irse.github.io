@@ -1,8 +1,10 @@
 ---
 layout: post
 title: What kind of planets have been found around M-dwarf stars?
-published: true
+published: false
 ---
+
+CHECK THE DATA.
 
 Fair warning: I'm not sure if the following has a point. It's just information I find interesting.
 
@@ -16,3 +18,6 @@ There are two visible 'clusters' of planets - in the 0-0.6 and 0.8-1.7 Jupiter-r
 
 ![](https://docs.google.com/spreadsheets/d/1OlkD8t1sC7vgQXtboceluSYks06Wze-6-1hyZ0peyxs/pubchart?oid=1709736354&format=image)
 
+The density plot below shows that...
+
+<age of the system correlated with masses of planets>
